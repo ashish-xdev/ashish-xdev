@@ -1,5 +1,5 @@
 # 💫 About Me:
-Who I am:<br>"I am Ashish, a passionate frontend developer with experience in HTML,<br> CSS and JavaScript"<br><br>What I do:<br>"I build clean, responsive websites and web applications to deliver<br> smooth user experiences."<br><br>My recent work:<br>"Recently, I developed a To-Do List app and a Simon Game, applying<br> JavaScript to create interactive features."<br><br>My goals:<br>"I aim to improve my skills by taking on challenging projects and <br>learning new technologies like Node.js. and React.js."<br><br>Open to collaborations:<br>"I am open to collaborating on exciting projects and contributing to<br> open-source initiatives."
+Who I am:<br>"I am Ashish Tiwari, a passionate frontend developer with experience in HTML,<br> CSS and JavaScript"<br><br>What I do:<br>"I build clean, responsive websites and web applications to deliver<br> smooth user experiences."<br><br>My recent work:<br>"Recently, I developed a To-Do List app and a Simon Game, applying<br> JavaScript to create interactive features."<br><br>My goals:<br>"I aim to improve my skills by taking on challenging projects and <br>learning new technologies like Node.js. and React.js."<br><br>Open to collaborations:<br>"I am open to collaborating on exciting projects and contributing to<br> open-source initiatives."
 
 
 # 💻 Tech Stack:
